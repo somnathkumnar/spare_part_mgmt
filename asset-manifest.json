@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spare_part_mgmt/static/css/main.cca5ce86.css",
-    "main.js": "/spare_part_mgmt/static/js/main.d765fb8c.js",
+    "main.js": "/spare_part_mgmt/static/js/main.c240eed7.js",
     "static/media/brand-icons.svg": "/spare_part_mgmt/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/spare_part_mgmt/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/outline-icons.svg": "/spare_part_mgmt/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
@@ -20,10 +20,10 @@
     "static/media/outline-icons.woff2": "/spare_part_mgmt/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/spare_part_mgmt/index.html",
     "main.cca5ce86.css.map": "/spare_part_mgmt/static/css/main.cca5ce86.css.map",
-    "main.d765fb8c.js.map": "/spare_part_mgmt/static/js/main.d765fb8c.js.map"
+    "main.c240eed7.js.map": "/spare_part_mgmt/static/js/main.c240eed7.js.map"
   },
   "entrypoints": [
     "static/css/main.cca5ce86.css",
-    "static/js/main.d765fb8c.js"
+    "static/js/main.c240eed7.js"
   ]
 }
