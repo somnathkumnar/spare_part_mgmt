@@ -1,0 +1,1398 @@
+{
+	"Cold End": {
+		"BDS": {
+			"417": {
+				"wLoc": "D92",
+				"sloc": "No Stock",
+				"spareName": "Motor",
+				"wQty": 1,
+				"sQty": "Electrical Workshop"
+			},
+			"12039963": {
+				"wLoc": "D91",
+				"sloc": "Q-47",
+				"spareName": "Linear Bearing",
+				"wQty": 1,
+				"sQty": 6
+			}
+		},
+		"Zinc_Applicator": {
+			"47452": {
+				"wLoc": "D83",
+				"sloc": 45,
+				"spareName": "Hose",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12004913": {
+				"wLoc": "D89",
+				"sloc": "No Stock",
+				"spareName": "Tips",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12010152": {
+				"wLoc": "D81",
+				"sloc": "P-15",
+				"spareName": "Zinc spray-filter element for liquid fil // FILTER",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12010153": {
+				"wLoc": "D78",
+				"sloc": "P-16",
+				"spareName": "Zinc spray- filter element for Y  // STRAINER",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12043121": {
+				"wLoc": "D84",
+				"sloc": "No Stock",
+				"spareName": "Globe Valve",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12049361": {
+				"wLoc": "D90",
+				"sloc": "T-135",
+				"spareName": "Nozzle Gun (Full Assembly)",
+				"wQty": 1,
+				"sQty": 25
+			},
+			"12062824": {
+				"wLoc": "D80",
+				"sloc": "U-70",
+				"spareName": "Zinc Nozzle Nut",
+				"wQty": 1,
+				"sQty": 10
+			},
+			"12065074": {
+				"wLoc": "D82",
+				"sloc": "U-34",
+				"spareName": "Zinc liquid filter AAB430ML 1-PP-100 // FILTER UNIT",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12065075": {
+				"wLoc": "D79",
+				"sloc": "No Stock",
+				"spareName": "Zinc Y strainer FI00YS032SS001",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12065454": {
+				"wLoc": "D86",
+				"sloc": "No Stock",
+				"spareName": "Power cord",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"to gen": {
+				"wLoc": "D85",
+				"sloc": "No Stock",
+				"spareName": "8 mm QST push fitting",
+				"wQty": 1,
+				"sQty": "No Location"
+			}
+		},
+		"LCC": {
+			"4242": {
+				"wLoc": "D70",
+				"sloc": "No Stock",
+				"spareName": "Ball point screw",
+				"wQty": 1,
+				"sQty": "??"
+			},
+			"12005077": {
+				"wLoc": "D68",
+				"sloc": "No Stock",
+				"spareName": "Regulating Valve",
+				"wQty": 1,
+				"sQty": "??"
+			},
+			"12017517": {
+				"wLoc": "D73",
+				"sloc": "T-153",
+				"spareName": "Spring (long)",
+				"wQty": 1,
+				"sQty": 28
+			},
+			"12038104": {
+				"wLoc": "D74",
+				"sloc": "No Stock",
+				"spareName": "Guide wheel",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12046904": {
+				"wLoc": "D72",
+				"sloc": "T-149",
+				"spareName": "Spring (short)",
+				"wQty": 1,
+				"sQty": 24
+			},
+			"12053045": {
+				"wLoc": "D76",
+				"sloc": "T-106",
+				"spareName": "Up and down vertical bearing",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12060228": {
+				"wLoc": "D75",
+				"sloc": "Q-66",
+				"spareName": "Vertical Service bearing",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12062475": {
+				"wLoc": "D71",
+				"sloc": "R-86",
+				"spareName": "Grub screw spring loaded",
+				"wQty": 1,
+				"sQty": 40
+			}
+		},
+		"CCC": {
+			"55": {
+				"wLoc": "D59",
+				"sloc": "No Stock",
+				"spareName": "Clamping plate",
+				"wQty": 1,
+				"sQty": "??"
+			},
+			"12017517": {
+				"wLoc": "D65",
+				"sloc": "T-153",
+				"spareName": "Spring Long",
+				"wQty": 1,
+				"sQty": 28
+			},
+			"12038104": {
+				"wLoc": "D62",
+				"sloc": "No Stock",
+				"spareName": "Guide wheel",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12046904": {
+				"wLoc": "D64",
+				"sloc": "T-149",
+				"spareName": "Spring short",
+				"wQty": 1,
+				"sQty": 24
+			},
+			"12053045": {
+				"wLoc": "D58",
+				"sloc": "T-106",
+				"spareName": "Vertical bearing",
+				"wQty": 1,
+				"sQty": "??"
+			},
+			"12066046": {
+				"wLoc": "D63",
+				"sloc": "N-64",
+				"spareName": "Flange bearing",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12066233": {
+				"wLoc": "D61",
+				"sloc": "No Stock",
+				"spareName": "Shaft (non-drive end)",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12073733": {
+				"wLoc": "D67",
+				"sloc": "O-43",
+				"spareName": "Timing belt",
+				"wQty": 1,
+				"sQty": 18
+			},
+			"No info": {
+				"wLoc": "D66",
+				"sloc": "No Stock",
+				"spareName": "Timing pulley",
+				"wQty": 1,
+				"sQty": "No Location"
+			}
+		},
+		"Edge_Trimmer": {
+			"75": {
+				"wLoc": "D33",
+				"sloc": "No Stock",
+				"spareName": "1/2\" Z=18 SPROCKET, 08B-1 Z=18",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"572": {
+				"wLoc": "D45",
+				"sloc": "NaN",
+				"spareName": "1FK7060-5AF71-1KU5-Z_D 37_G11_+H13",
+				"wQty": 1,
+				"sQty": "Electrical workshop"
+			},
+			"785": {
+				"wLoc": "D34",
+				"sloc": "No Stock",
+				"spareName": "1/2\" Z=18 SPROCKET, 08B-1 Z=18",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12013002": {
+				"wLoc": "D41",
+				"sloc": "No Stock",
+				"spareName": "TOLOMATIC gearbox assembly",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12017327": {
+				"wLoc": "D49",
+				"sloc": "Q-65",
+				"spareName": "GE-T42E-55E B1-TL WITH 96SHORE A and GE-T42I-55E B1-TL",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12025226": {
+				"wLoc": "D43",
+				"sloc": "Q-37",
+				"spareName": "2012-40",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12028051": {
+				"wLoc": "D51",
+				"sloc": "B-29",
+				"spareName": "1610-35 ",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12028072": {
+				"wLoc": "D55",
+				"sloc": "F-67",
+				"spareName": "TL-14M-28S-37",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12055673": {
+				"wLoc": "D42",
+				"sloc": "Q-53",
+				"spareName": "R1622-494-2",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12059906": {
+				"wLoc": "D57",
+				"sloc": "MC-3-5",
+				"spareName": "14MGT-2520-37",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12060247": {
+				"wLoc": "D53",
+				"sloc": "U-111",
+				"spareName": "10*8*32",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12069099": {
+				"wLoc": "D48",
+				"sloc": "Q-119",
+				"spareName": "1610-40",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12069101": {
+				"wLoc": "D52",
+				"sloc": "Q-139",
+				"spareName": "2012-35",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12073733": {
+				"wLoc": "D50",
+				"sloc": "O-43",
+				"spareName": "HTD 8M-50 L4424 OPEN",
+				"wQty": 1,
+				"sQty": 18
+			},
+			"12073749": {
+				"wLoc": "D37",
+				"sloc": "No Stock",
+				"spareName": "05B-2, L=536 CHAIN W/FEATHER LOCK",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12073750": {
+				"wLoc": "D36",
+				"sloc": "Q-118",
+				"spareName": "05B-2 C/L",
+				"wQty": 1,
+				"sQty": 16
+			},
+			"12073751": {
+				"wLoc": "D35",
+				"sloc": "Q-140",
+				"spareName": "05B-2 O/L",
+				"wQty": 1,
+				"sQty": 16
+			},
+			"12073753": {
+				"wLoc": "D40",
+				"sloc": "T-138",
+				"spareName": "08B-1 CHAIN, L=749.3 WITH FEATHER LOCK ",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12073754": {
+				"wLoc": "D39",
+				"sloc": "U-138",
+				"spareName": "08B-1 C/L",
+				"wQty": 1,
+				"sQty": 20
+			},
+			"12073755": {
+				"wLoc": "D38",
+				"sloc": "U-140",
+				"spareName": "08B1-O/L",
+				"wQty": 1,
+				"sQty": 20
+			},
+			"12074757": {
+				"wLoc": "D44",
+				"sloc": "O-99",
+				"spareName": "2012-30",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12081047": {
+				"wLoc": "D46",
+				"sloc": "No Stock",
+				"spareName": "RT800-8M50-HTD",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12081048": {
+				"wLoc": "D47",
+				"sloc": "No Stock",
+				"spareName": "TL40-8M-50-HTD",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"\"-\"": {
+				"wLoc": "D56",
+				"sloc": "NaN",
+				"spareName": "1FK7100-5AF71-1DU5-Z_D34_+G 11_+H13 1:16 reduction",
+				"wQty": 1,
+				"sQty": "Electrical workshop"
+			}
+		},
+		"Trap_2": {
+			"75": {
+				"wLoc": "D27",
+				"sloc": "No Stock",
+				"spareName": "Taper lock sprocket for two rollers",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"758": {
+				"wLoc": "D19",
+				"sloc": "No Stock",
+				"spareName": "Evacuation Roller Sprocket",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12017327": {
+				"wLoc": "D26",
+				"sloc": "Q-65",
+				"spareName": "Spider coupling",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12025226": {
+				"wLoc": "D23",
+				"sloc": "Q-37",
+				"spareName": "Taper Lock",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12025253": {
+				"wLoc": "D21",
+				"sloc": "Q-55",
+				"spareName": "Pulley",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12028479": {
+				"wLoc": "D24",
+				"sloc": "B-52",
+				"spareName": "Bevel gear (Nylon)",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12033205": {
+				"wLoc": "D20",
+				"sloc": "Q-92",
+				"spareName": "Evacuation Roller Chain",
+				"wQty": 1,
+				"sQty": 43
+			},
+			"12060255": {
+				"wLoc": "D25",
+				"sloc": "T-52",
+				"spareName": "Timing belt",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12069099": {
+				"wLoc": "D28",
+				"sloc": "Q-119",
+				"spareName": "Taper lock adapter bush for two rollers",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12069102": {
+				"wLoc": "D22",
+				"sloc": "P-13",
+				"spareName": "Taper lock",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12081138": {
+				"wLoc": "D32",
+				"sloc": "No Stock",
+				"spareName": "Rod-eye for pneumatic cylinder",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12081139": {
+				"wLoc": "D31",
+				"sloc": "No Stock",
+				"spareName": "Swivel Flange for pneumatic cylinder",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12081140": {
+				"wLoc": "D30",
+				"sloc": "No Stock",
+				"spareName": "Clevis foot mounting for cylinder",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"Electrical WS": {
+				"wLoc": "D29",
+				"sloc": "..",
+				"spareName": "Drop motor",
+				"wQty": 1,
+				"sQty": ".."
+			}
+		},
+		"Zone_5": {
+			"22": {
+				"wLoc": "D11",
+				"sloc": "No Stock",
+				"spareName": "Vertical conveying Motor",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"52": {
+				"wLoc": "D9",
+				"sloc": "No Stock",
+				"spareName": "Spider",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"55": {
+				"wLoc": "D14",
+				"sloc": "No Stock",
+				"spareName": "Small support Rollers",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12028066": {
+				"wLoc": "D10",
+				"sloc": "T-79",
+				"spareName": "Knurled Pulley",
+				"wQty": 1,
+				"sQty": 20
+			},
+			"12035629": {
+				"wLoc": "D18",
+				"sloc": "Q-85",
+				"spareName": "Timing belt AT -10 7220 - Air Table",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12035706": {
+				"wLoc": "D17",
+				"sloc": "Q-28",
+				"spareName": "Timing belt AT-10 25X6000 - 512",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12037111": {
+				"wLoc": "D16",
+				"sloc": "No Stock",
+				"spareName": "Timing belt AT-10 25X 7100 - 505-1",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12037955": {
+				"wLoc": "D15",
+				"sloc": "Q-34",
+				"spareName": "Timing belt AT -10 25X6380 - 505-2",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12072391": {
+				"wLoc": "D8",
+				"sloc": "No Stock",
+				"spareName": "Bevel Gear",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12080839": {
+				"wLoc": "D7",
+				"sloc": "No Stock",
+				"spareName": "Belt Guides for 505-1 and 505-2",
+				"wQty": 1,
+				"sQty": "No Location"
+			}
+		},
+		"Conveyors RHS": {
+			"427": {
+				"wLoc": "D0",
+				"sloc": "No Stock",
+				"spareName": "Drive Shaft adapter bush",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12017327": {
+				"wLoc": "D3",
+				"sloc": "Q-65",
+				"spareName": "Spider Coupling",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12025226": {
+				"wLoc": "D4",
+				"sloc": "Q-37",
+				"spareName": "Taper lock",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12025253": {
+				"wLoc": "D5",
+				"sloc": "Q-55",
+				"spareName": "Timing pulley",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12028051": {
+				"wLoc": "D2",
+				"sloc": "B-29",
+				"spareName": "Spider Coupling centre taper lock",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12036903": {
+				"wLoc": "D1",
+				"sloc": "B-24",
+				"spareName": "Bearing Unit",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12055154": {
+				"wLoc": "D6",
+				"sloc": "T-15",
+				"spareName": "Timing belt",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12069099": {
+				"wLoc": "D1",
+				"sloc": "Q-119",
+				"spareName": "Drive shaft taper bush",
+				"wQty": 1,
+				"sQty": 5
+			}
+		},
+		"Conveyors LHS": {
+			"4": {
+				"wLoc": "D7",
+				"sloc": "No Stock",
+				"spareName": "Roller LHS timing pulley (Dense Type)",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"55": {
+				"wLoc": "D6",
+				"sloc": "No Stock",
+				"spareName": "Roller LHS timing pulley (Normal Type)",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12025226": {
+				"wLoc": "D2",
+				"sloc": "Q-37",
+				"spareName": " Roller LHS taper lock (Normal type)",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12055155": {
+				"wLoc": "D4",
+				"sloc": "T-75",
+				"spareName": "Roller LHS timing belt (Normal Type)",
+				"wQty": 1,
+				"sQty": 7
+			},
+			"12055163": {
+				"wLoc": "D3",
+				"sloc": "B-27",
+				"spareName": " Roller LHS taper lock (Dense type)",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12060265": {
+				"wLoc": "D5",
+				"sloc": "T-8",
+				"spareName": "Roller LHS timing belt (Dense Type)",
+				"wQty": 1,
+				"sQty": 4
+			}
+		},
+		"MIB": {
+			"12036831": {
+				"wLoc": "D10",
+				"sloc": "T-152",
+				"spareName": "Linear Bearing for guide",
+				"wQty": 1,
+				"sQty": 12
+			}
+		},
+		"Titan_Conveyor": {
+			"41": {
+				"wLoc": "D12",
+				"sloc": "No Stock",
+				"spareName": "Timing pulley (motor)",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"744": {
+				"wLoc": "D17",
+				"sloc": "No Stock",
+				"spareName": "Drive Shaft adapter bush",
+				"wQty": 1,
+				"sQty": "No Location"
+			},
+			"12017327": {
+				"wLoc": "D14",
+				"sloc": "Q-65",
+				"spareName": "Spider Coupling",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12025226": {
+				"wLoc": "D13",
+				"sloc": "Q-37",
+				"spareName": "Taper lock (MOTOR)",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12028051": {
+				"wLoc": "D15",
+				"sloc": "B-29",
+				"spareName": "Spider Coupling centre taper lock",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12036903": {
+				"wLoc": "D18",
+				"sloc": "B-24",
+				"spareName": "Bearing Unit",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12060261": {
+				"wLoc": "D11",
+				"sloc": "T-27",
+				"spareName": "Timing belt (motor)",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12069099": {
+				"wLoc": "D16",
+				"sloc": "Q-119",
+				"spareName": "Drive shaft taper bush",
+				"wQty": 1,
+				"sQty": 5
+			}
+		},
+		"Gate Wheels": {
+			"12023620": {
+				"wLoc": "D20",
+				"sloc": "O-51",
+				"spareName": "Bearing 6306 ZZ/C3 // Gearbox",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12028748": {
+				"wLoc": "D19",
+				"sloc": "N-84",
+				"spareName": "BEARING 6206 ZZ/C3",
+				"wQty": 1,
+				"sQty": 10
+			},
+			"12055586": {
+				"wLoc": "D24",
+				"sloc": "No Location",
+				"spareName": "Guide Rollers // All Gates",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12057802": {
+				"wLoc": "D25",
+				"sloc": "No Location",
+				"spareName": "Pin for Gate Wheel",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12063857": {
+				"wLoc": "D26",
+				"sloc": "S-144",
+				"spareName": "Material Gate Wheel",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12065175": {
+				"wLoc": "D23",
+				"sloc": "Q-86",
+				"spareName": "Gear: Gate Gear Box ",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12070009": {
+				"wLoc": "D22",
+				"sloc": "No Location",
+				"spareName": "Bearing 6010 // Gearbox",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12070010": {
+				"wLoc": "D21",
+				"sloc": "N-40",
+				"spareName": "Bearing 6909 // Gearbox",
+				"wQty": 1,
+				"sQty": 4
+			}
+		},
+		"Glass Rework": {
+			"12003877": {
+				"wLoc": "C11",
+				"sloc": "X-38",
+				"spareName": "Air Distribution Box: Glass Rework Frame",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12003891": {
+				"wLoc": "C11",
+				"sloc": "X-18",
+				"spareName": "Air Control Knob: Glass Rework Equipment",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12017243": {
+				"wLoc": "C11",
+				"sloc": "X-20",
+				"spareName": "Air Filter Glass Rework Equipment",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12018248": {
+				"wLoc": "C07",
+				"sloc": "P-87",
+				"spareName": "Helical gear - PCD - 220 mm- 51 teeth",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12019204": {
+				"wLoc": "C11",
+				"sloc": "X-19",
+				"spareName": "Silencer for Glass Rework Equipment",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12019207": {
+				"wLoc": "C04",
+				"sloc": "U-3",
+				"spareName": "Rubber Pad for Vacumm Lifter",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12055601": {
+				"wLoc": "C08",
+				"sloc": "Z-35",
+				"spareName": "Pneumatic Cylinder",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12068855": {
+				"wLoc": "C12",
+				"sloc": "X-5",
+				"spareName": "Glass Rework: Air Hose",
+				"wQty": 1,
+				"sQty": 12
+			},
+			"12072334": {
+				"wLoc": "C05",
+				"sloc": "Q-159",
+				"spareName": "Vacuum Pump EV20",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12072335": {
+				"wLoc": "C11",
+				"sloc": "No Location",
+				"spareName": "Hand Valve TG 352 ",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12075202": {
+				"wLoc": "C06",
+				"sloc": "P-160",
+				"spareName": "Vacuum Gauge",
+				"wQty": 1,
+				"sQty": 1
+			}
+		},
+		"Grub Screw": {
+			"12072907": {
+				"wLoc": "D26",
+				"sloc": "R-118",
+				"spareName": "GRUB SCREW-M8X20",
+				"wQty": 1,
+				"sQty": 195
+			},
+			"12072908": {
+				"wLoc": "D26",
+				"sloc": "R-119",
+				"spareName": "GRUB SCREW-M8X40",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072909": {
+				"wLoc": "D26",
+				"sloc": "R-20",
+				"spareName": "GRUB SCREW-M10X20",
+				"wQty": 1,
+				"sQty": 195
+			},
+			"12072910": {
+				"wLoc": "D26",
+				"sloc": "R-38",
+				"spareName": "GRUB SCREW-M10X40",
+				"wQty": 1,
+				"sQty": 98
+			},
+			"12072933": {
+				"wLoc": "D26",
+				"sloc": "R-40",
+				"spareName": "GRUB SCREW-M3X20",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072934": {
+				"wLoc": "D26",
+				"sloc": "R-19",
+				"spareName": "GRUB SCREW-M4X20",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072935": {
+				"wLoc": "D26",
+				"sloc": "R-59",
+				"spareName": "GRUB SCREW-M4X40",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072936": {
+				"wLoc": "D26",
+				"sloc": "R-78",
+				"spareName": "GRUB SCREW-M5X20",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072937": {
+				"wLoc": "D26",
+				"sloc": "R-80",
+				"spareName": "GRUB SCREW-M5X40",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072938": {
+				"wLoc": "D26",
+				"sloc": "R-99",
+				"spareName": "GRUB SCREW-M6X20",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072939": {
+				"wLoc": "D26",
+				"sloc": "R-79",
+				"spareName": "GRUB SCREW-M6X40",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072940": {
+				"wLoc": "D26",
+				"sloc": "R-100",
+				"spareName": "GRUB SCREW-M8X10",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072945": {
+				"wLoc": "D26",
+				"sloc": "R-58",
+				"spareName": "GRUB SCREW-M4X10",
+				"wQty": 1,
+				"sQty": 88
+			},
+			"12072946": {
+				"wLoc": "D26",
+				"sloc": "R-60",
+				"spareName": "GRUB SCREW-M5X10",
+				"wQty": 1,
+				"sQty": 88
+			},
+			"12072947": {
+				"wLoc": "D26",
+				"sloc": "R-98",
+				"spareName": "GRUB SCREW-M6X10",
+				"wQty": 1,
+				"sQty": 100
+			},
+			"12072951": {
+				"wLoc": "D26",
+				"sloc": "R-39",
+				"spareName": "GRUB SCREW-M3X10",
+				"wQty": 1,
+				"sQty": 100
+			}
+		},
+		"Offline": {
+			"12006143": {
+				"wLoc": "A33",
+				"sloc": "U-69",
+				"spareName": "V belt B 76 // End Crusher",
+				"wQty": 1,
+				"sQty": 12
+			},
+			"12012789": {
+				"wLoc": "A27",
+				"sloc": "HD-10-F",
+				"spareName": "nylon half round bar for offline top tri",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12017126": {
+				"wLoc": "A30",
+				"sloc": "O-54",
+				"spareName": "Bearing UCPA 206",
+				"wQty": 1,
+				"sQty": 8
+			},
+			"12019388": {
+				"wLoc": "A19",
+				"sloc": "T-110",
+				"spareName": "simplex sprocket 17 T 1/2\" // Coupling Sprocket",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12021243": {
+				"wLoc": "A26",
+				"sloc": "No Location",
+				"spareName": "top trim bar guide // Not required now",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12025537": {
+				"wLoc": "A29",
+				"sloc": "HD-2-E",
+				"spareName": "Offline Donuts Tapered",
+				"wQty": 1,
+				"sQty": 200
+			},
+			"12027595": {
+				"wLoc": "A31",
+				"sloc": "N-25",
+				"spareName": "pilow block P206",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12035692": {
+				"wLoc": "A24",
+				"sloc": "Q-27",
+				"spareName": "Timing belt AT-10 25X8080 // Quality",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12035702": {
+				"wLoc": "A25",
+				"sloc": "No Location",
+				"spareName": "Timing belt AT-10 25X11000 // X Bridge",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12039963": {
+				"wLoc": "A19",
+				"sloc": "Q-47",
+				"spareName": "Runner Block: 1651-214-2Z // Snapper",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12040042": {
+				"wLoc": "A23",
+				"sloc": "No Location",
+				"spareName": "Timing Belt AT10 9040 25 // Pop Up",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12040909": {
+				"wLoc": "A22",
+				"sloc": "T-19",
+				"spareName": "Timing Belt 760 8M // 2 No",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12041832": {
+				"wLoc": "A18",
+				"sloc": "T-32",
+				"spareName": "Timing Belt 736 8M // Conveyers",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12041838": {
+				"wLoc": "A21",
+				"sloc": "No Location",
+				"spareName": "Timing Belt 1120 8M // X Bridge",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12041886": {
+				"wLoc": "A19",
+				"sloc": "T-16",
+				"spareName": "Timing Belt 1160 8M // Cross Conveyer",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12043491": {
+				"wLoc": "A32",
+				"sloc": "N-115",
+				"spareName": "Bearing No UCPP206",
+				"wQty": 1,
+				"sQty": 10
+			},
+			"12048338": {
+				"wLoc": "A16",
+				"sloc": "F-15",
+				"spareName": "Offline Stopper X",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12048340": {
+				"wLoc": "A21",
+				"sloc": "S-148",
+				"spareName": "Offline Gear Long Sleeve",
+				"wQty": 1,
+				"sQty": 10
+			},
+			"12048347": {
+				"wLoc": "A17",
+				"sloc": "Q-57",
+				"spareName": "Offline Stopper Y",
+				"wQty": 1,
+				"sQty": 32
+			},
+			"12052129": {
+				"wLoc": "A22",
+				"sloc": "S-123",
+				"spareName": "Offline Gear Short Sleeve",
+				"wQty": 1,
+				"sQty": 10
+			},
+			"12055673": {
+				"wLoc": "A14",
+				"sloc": "Q-53",
+				"spareName": "Runner Block: 1622-494-20 // X LT",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12060228": {
+				"wLoc": "A18",
+				"sloc": "Q-66",
+				"spareName": "Runner Block: 1623-814-20 // X CT",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12062465": {
+				"wLoc": "A29",
+				"sloc": "AD-54",
+				"spareName": "Windjet Air Nozzle",
+				"wQty": 1,
+				"sQty": 50
+			},
+			"12062466": {
+				"wLoc": "A29",
+				"sloc": "U-52",
+				"spareName": "Air Nozzle Connectors",
+				"wQty": 1,
+				"sQty": 40
+			},
+			"12070558": {
+				"wLoc": "A34",
+				"sloc": "Z-93",
+				"spareName": "V Belt C77 // End Crusher",
+				"wQty": 1,
+				"sQty": 9
+			},
+			"12072484": {
+				"wLoc": "A28",
+				"sloc": "Y-4",
+				"spareName": "Snap Bar // Y Snapper",
+				"wQty": 1,
+				"sQty": 6
+			},
+			"12072716": {
+				"wLoc": "A30",
+				"sloc": "No Location",
+				"spareName": "Offline Donuts Top Trim",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			}
+		},
+		"Pile Lifter GV": {
+			"12014480": {
+				"wLoc": "C08",
+				"sloc": "S-127",
+				"spareName": "Sprocket 1/2\" 27T simplex",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12065207": {
+				"wLoc": "C05",
+				"sloc": "Q-50",
+				"spareName": "Worm Gear Pile Lifter",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12065826": {
+				"wLoc": "C06",
+				"sloc": "U-146",
+				"spareName": "GV Pile Lifter Base Plate",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12065827": {
+				"wLoc": "C07",
+				"sloc": "U-149",
+				"spareName": "GV Pile Lifter Top Plate",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12066142": {
+				"wLoc": "C05",
+				"sloc": "Q-73",
+				"spareName": "worm for GV pile lifter",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12068676": {
+				"wLoc": "C09",
+				"sloc": "S-61",
+				"spareName": "hegla lifter thickness adjusting support",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12069579": {
+				"wLoc": "C06",
+				"sloc": "S-64",
+				"spareName": "Pile Lifter Worm Gear Box S20",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12069580": {
+				"wLoc": "A19",
+				"sloc": "S-64",
+				"spareName": "Pile Lifter Bevel Gear Box",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12072645": {
+				"wLoc": "C10",
+				"sloc": "HD1-E",
+				"spareName": "Hegla Top Shaft-20*1600mm",
+				"wQty": 1,
+				"sQty": 2
+			}
+		},
+		"Powder": {
+			"12004541": {
+				"wLoc": "C08",
+				"sloc": "No Location",
+				"spareName": "Powder Applicator Tubes",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12006168": {
+				"wLoc": "C17",
+				"sloc": "P-68",
+				"spareName": "Powder Applicator Seal: 150938",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12006170": {
+				"wLoc": "C13",
+				"sloc": "P-67",
+				"spareName": "Powder Applicator Funnel: 151024",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12006174": {
+				"wLoc": "C15",
+				"sloc": "No Location",
+				"spareName": "Powder Applicator Pivot: 151097",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12006205": {
+				"wLoc": "C18",
+				"sloc": "No Location",
+				"spareName": "Powder Applicator Washer: 151070",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12006270": {
+				"wLoc": "C16",
+				"sloc": "No Location",
+				"spareName": "Powder Applicator Plastic Cone: 151140",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12006289": {
+				"wLoc": "C12",
+				"sloc": "No Location",
+				"spareName": "Powder Applicator 0 Ring: 151141   ",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12006308": {
+				"wLoc": "C14",
+				"sloc": "P-63",
+				"spareName": "Powder Applicator Inlet Filter:150950.01",
+				"wQty": 1,
+				"sQty": 16
+			},
+			"12019575": {
+				"wLoc": "C11",
+				"sloc": "Q-158",
+				"spareName": "Nozzle for Grafotec Powder Applicator",
+				"wQty": 1,
+				"sQty": 4
+			},
+			"12028632": {
+				"wLoc": "C09",
+				"sloc": "No Location",
+				"spareName": "Powder Distributor",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12032516": {
+				"wLoc": "C10",
+				"sloc": "No Location",
+				"spareName": "Dosing Module Powder Applicator ",
+				"wQty": 1,
+				"sQty": "Zero Stock"
+			},
+			"12039543": {
+				"wLoc": "C20",
+				"sloc": "P-145",
+				"spareName": "Stirrer Rod Assembly",
+				"wQty": 1,
+				"sQty": 1
+			},
+			"12039545": {
+				"wLoc": "C19",
+				"sloc": "P-154",
+				"spareName": "Seal for Stirrer Motor",
+				"wQty": 1,
+				"sQty": 6
+			},
+			"12065584": {
+				"wLoc": "C07",
+				"sloc": "N-11",
+				"spareName": "Bearing 627 ZZ // Dosing Motor",
+				"wQty": 1,
+				"sQty": 2
+			}
+		},
+		"Taper Lock": {
+			"12025226": {
+				"wLoc": "A02",
+				"sloc": "Q-37",
+				"spareName": "Taper lock TL-2012-40",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12028051": {
+				"wLoc": "A04",
+				"sloc": "B-29",
+				"spareName": "Taper Lock 1610-35",
+				"wQty": 1,
+				"sQty": 3
+			},
+			"12055163": {
+				"wLoc": "A04",
+				"sloc": "B-27",
+				"spareName": "Taper Lock 1610-30",
+				"wQty": 1,
+				"sQty": 2
+			},
+			"12069099": {
+				"wLoc": "A04",
+				"sloc": "Q-119",
+				"spareName": "Taper Lock 1610-40",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12069100": {
+				"wLoc": "A03",
+				"sloc": "Q-120",
+				"spareName": "Taper Lock 1615-35",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12069101": {
+				"wLoc": "A02",
+				"sloc": "Q-139",
+				"spareName": "Taper Lock 2012-35",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12069102": {
+				"wLoc": "A02",
+				"sloc": "P-13",
+				"spareName": "Taper Lock 2012-45",
+				"wQty": 1,
+				"sQty": 5
+			},
+			"12074757": {
+				"wLoc": "A02",
+				"sloc": "O-99",
+				"spareName": "Taper Lock 2012-30",
+				"wQty": 1,
+				"sQty": 4
+			}
+		}
+	}
+}
