@@ -3,7 +3,6 @@ import { Dropdown } from 'semantic-ui-react'
 
 const DropdownExampleSearchSelection = (props) => (
     <Dropdown
-        placeholder='Select Country'
         fluid
         clearable
         search

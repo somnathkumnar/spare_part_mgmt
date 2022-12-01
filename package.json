@@ -1,6 +1,6 @@
 {
-	"homepage": "https://developerharshit.github.io/spare-parts-mgmt/",
-	"name": "spare-parts-mgmt",
+	"homepage": "https://somnathkumnar.github.io/spare_part_mgmt/",
+	"name": "spare_part_mgmt",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
