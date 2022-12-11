@@ -77,16 +77,15 @@ class App extends Component {
         }
     }
 
-    handleButtonClick = (event) => {
-        if (parseInt(this.state.wQty) && parseInt(this.state.wQty) >= this.state.qtyUsed) {
+    handleButtonClick = async (event) => {
+        if (parseInt(this.state.wQty) || parseInt(this.state.sQty)) {
             const { area, equipment, mCode, qtyUsed, spareName, name, comment } = this.state
-            if (updateQty(area, equipment, mCode, qtyUsed, spareName, name, comment)) {
+            const obj = await updateQty(area, equipment, mCode, qtyUsed, spareName, name, comment)
+            console.log(obj);
+            if (obj) {
                 const mainData = this.state.mainData
-                mainData[this.state.area][this.state.equipment][this.state.mCode]['wQty'] = (parseInt(this.state.wQty) - this.state.qtyUsed).toString()
+                mainData[this.state.area][this.state.equipment][this.state.mCode] = { ...mainData[this.state.area][this.state.equipment][this.state.mCode], ...obj }
                 this.sendResponseEmail()
-                if (parseInt(this.state.wQty) - this.state.qtyUsed <= 2) {
-                    this.sendAlertEmail(parseInt(this.state.wQty) - this.state.qtyUsed)
-                }
                 this.setState({
                     // spareName: "",
                     // specs: "",
@@ -96,11 +95,13 @@ class App extends Component {
                     // sQty: "",
                     qtyUsed: "",
                     mainData: mainData,
-                    wQty: (parseInt(this.state.wQty) - this.state.qtyUsed).toString()
+                    ...obj,
                     // mCode: "",
                 })
+                if (parseInt(obj['sQty']) <= 2 || parseInt(obj['wQty']) <= 2) {
+                    this.sendAlertEmail(obj)
+                }
             }
-
         }
     }
 
@@ -115,10 +116,11 @@ class App extends Component {
         }
     }
 
-    sendAlertEmail = async (wQty) => {
-        const { mCode, spareName } = this.state
+    sendAlertEmail = async (obj) => {
+        const { mCode, spareName, wQty, sQty } = this.state
         try {
-            await emailjs.send('service_c2x9jm4', 'template_rl3gykp', { spareName, mCode, wQty }, 'L8LRimFmVcPcBLHEE')
+            console.log({ spareName, mCode, wQty, sQty, ...obj });
+            await emailjs.send('service_c2x9jm4', 'template_rl3gykp', { spareName, mCode, wQty, sQty, ...obj }, 'L8LRimFmVcPcBLHEE')
             console.log('alert email sent');
         }
         catch (e) {
@@ -171,7 +173,7 @@ class App extends Component {
                     </Card.Content>
                     <Card.Content extra>
                         <Button basic color='green' fluid onClick={this.handleButtonClick}>
-                            Request
+                            Submit
                         </Button>
 
                     </Card.Content>
@@ -181,7 +183,16 @@ class App extends Component {
     }
 
     render() {
-        return this.mainForm()
+        // console.log(this.state);
+        return (
+            <div>
+                <div style={{ paddingTop: '20px', paddingBottom: '50px', color: 'blueviolet', fontWeight: 'bold' }}>
+                    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Saint-Gobain_logo.svg" alt="logo" />
+                    <h1 style={{ textAlign: 'center', marginTop: '0' }}>Spare Parts Management</h1>
+                </div>
+                {this.mainForm()}
+            </div>
+        )
     }
 }
 

@@ -14,12 +14,26 @@ export const updateQty = async (area, equipment, mCode, qty, spare, nameOfPerson
     try {
         const ref = database.ref().child('data/area').child(area).child(equipment).child(mCode)
         console.log('updating qty');
+        const retValue = { wQty: "", sQty: "" };
         // console.log((await ref.get()).val());
-        ref.transaction((obj) => {
+        await ref.transaction((obj) => {
             if (obj) {
-                if (!parseInt(obj.wQty)) return obj
-                const wQty = parseInt(obj.wQty)
-                obj['wQty'] = (wQty - qty).toString()
+                if (parseInt(obj.wQty) && parseInt(obj.wQty) >= qty) {
+                    const wQty = parseInt(obj.wQty)
+                    obj['wQty'] = (wQty - qty).toString()
+                    retValue['wQty'] = (wQty - qty).toString()
+                    retValue['sQty'] = obj['sQty']
+                    return obj
+                }
+                if (parseInt(obj.sQty) && parseInt(obj.sQty) >= qty) {
+                    const sQty = parseInt(obj.sQty)
+                    const wQty = parseInt(obj.wQty) || 0
+                    obj['sQty'] = (sQty + wQty - qty).toString()
+                    obj['wQty'] = parseInt(obj.wQty) ? "0" : obj.wQty
+                    retValue["wQty"] = parseInt(obj.wQty) ? "0" : obj.wQty
+                    retValue['sQty'] = (sQty + wQty - qty).toString()
+                    return obj
+                }
             }
             return obj
         })
@@ -32,7 +46,7 @@ export const updateQty = async (area, equipment, mCode, qty, spare, nameOfPerson
             "spare": spare,
             "comment": comment
         })
-        return true
+        return retValue
     }
     catch (err) {
         console.log(err);
